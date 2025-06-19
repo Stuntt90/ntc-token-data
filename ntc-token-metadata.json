@@ -1,0 +1,13 @@
+{
+  "name": "NTC Token",
+  "symbol": "NTC",
+  "uri": "https://yourdomain.com/ntc-token-metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "BW4hu3LXKNsWKfFGD4rB5N7qbAMtjcE3ne1Z7MTYF5vL",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
