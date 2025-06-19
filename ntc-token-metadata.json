@@ -1,7 +1,7 @@
 {
   "name": "NTC Token",
   "symbol": "NTC",
-  "description": "The official utility and rewards token for the NiceTouch ecosystem.",
+  "description": "The official utility and rewards token of the NiceTouch ecosystem.",
   "image": "https://raw.githubusercontent.com/Stuntt90/ntc-token-data/main/ntc-logo.png",
   "decimals": 9,
   "properties": {
@@ -20,4 +20,3 @@
     ]
   }
 }
-
