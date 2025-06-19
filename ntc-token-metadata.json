@@ -1,7 +1,7 @@
 {
   "name": "NTC Token",
   "symbol": "NTC",
-  "uri": "https://yourdomain.com/ntc-token-metadata.json",
+  "uri": "https://github.com/Stuntt90/ntc-token-data/blob/main/ntc-token-metadata.json",
   "seller_fee_basis_points": 0,
   "creators": [
     {
