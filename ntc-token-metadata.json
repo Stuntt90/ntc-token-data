@@ -1,13 +1,23 @@
 {
   "name": "NTC Token",
   "symbol": "NTC",
-  "uri": "https://raw.githubusercontent.com/Stuntt90/ntc-token-data/main/ntc-token-metadata.json",
-  "seller_fee_basis_points": 0,
-  "creators": [
-    {
-      "address": "BW4hu3LXKNsWKfFGD4rB5N7qbAMtjcE3ne1Z7MTYF5vL",
-      "verified": true,
-      "share": 100
-    }
-  ]
+  "description": "The official utility and rewards token for the NiceTouch ecosystem.",
+  "image": "https://raw.githubusercontent.com/Stuntt90/ntc-token-data/main/ntc-logo.png",
+  "decimals": 9,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Stuntt90/ntc-token-data/main/ntc-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "BW4hu3LXKNsWKfFGD4rB5N7qbAMtjcE3ne1Z7MTYF5vL",
+        "share": 100
+      }
+    ]
+  }
 }
+
